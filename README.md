@@ -7,6 +7,6 @@ Realizzazione di un contatore per il monitoraggio dei flussi su una pista ciclab
 -	E’ autonomo nell’invio dei dati ad un cloud gratuito (thingspeak) mediante un modulo gprs, di conseguenza non necessita di collegamento ad internet
 -	Può essere installato su un palo a 3-4 metri di altezza e quindi fuori portata di eventuali vandali o ladri
 -	E’ low cost con componenti di facile reperimento sul mercato 
--	Può essere costruito da chiunque possa accedere ad una stampante 3D, sappia usare un saldatore e abbia conoscenze di base del mondo Esp32
+-	Può essere costruito da chiunque possa accedere ad una stampante 3D, sappia usare un saldatore e abbia conoscenze di base del mondo Esp32.
 
-Al seguente link sono disponibili le istruzioni per la costruzione della centralina, nel presente repository sono ospitati i codici sorgente necessari.
+Il repository è composto di questi file:
